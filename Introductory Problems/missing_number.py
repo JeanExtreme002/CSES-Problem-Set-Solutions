@@ -1,5 +1,3 @@
-# Author: Jean Loui Bernard Silva de Jesus
-
 value = int(input())
 values = [int(i) for i in input().split()]
 

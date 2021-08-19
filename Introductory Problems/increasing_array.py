@@ -1,5 +1,3 @@
-# Author: Jean Loui Bernard Silva de Jesus
-
 length = int(input())
 array = [int(i) for i in input().split()]
 moves = 0

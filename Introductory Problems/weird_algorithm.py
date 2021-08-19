@@ -1,5 +1,3 @@
-# Author: Jean Loui Bernard Silva de Jesus
-
 value = int(input())
 
 while value != 1:

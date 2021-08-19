@@ -1,5 +1,3 @@
-# Author: Jean Loui Bernard Silva de Jesus
-
 string = input()
 max_length = 0
 current_char, current_length = string[0], 0
